@@ -1,16 +1,12 @@
-# firebase_messaging
+# Firebase Messaging
 
-A new Flutter project.
+Flutter project use firebase messaging.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src="https://firebasestorage.googleapis.com/v0/b/demofirebase-5d7b7.appspot.com/o/A%CC%89nh%20chu%CC%A3p%20Ma%CC%80n%20hi%CC%80nh%202022-12-04%20lu%CC%81c%2016.05.07.png?alt=media&token=014a2036-ac70-420b-bf4e-406e896da0e1"/>
 
-A few resources to get you started if this is your first Flutter project:
+Follow link below to configure.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Library: firebase_messaging](https://pub.dev/packages/firebase_messaging)
+- [Documentation: firebase_doc](https://firebase.flutter.dev/docs/messaging/usage)
